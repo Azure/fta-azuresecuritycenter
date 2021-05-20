@@ -31,3 +31,5 @@ What does that mean? This means that Defender and it's associated features are a
 ## What is Azure Policy?
 
 Azure Policy is a tool that allows you to enforce standards and assess compliance at scale. Think of it as Business Rules that you define and then Azure Policy compares the properties of those resources against your business rules to give you an all up view of your overall state.
+
+#### [prev](./welcome.md) | [home](./welcome.md)  | [next](./take-aways.md)
