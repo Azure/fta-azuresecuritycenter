@@ -14,3 +14,5 @@ Learn - [Azure Security Center Ninja Training](https://techcommunity.microsoft.c
 Join the Azure Security Center Community - [Azure Security Center Tech Community](https://aka.ms/asccommunity)
 
 Turn on Azure Defender - [Enable Azure Defender](https://docs.microsoft.com/en-us/azure/security-center/enable-azure-defender)
+
+Implement some policies - [Security Optimisation](https://github.com/joanabmartins/SecurityOptimization)
