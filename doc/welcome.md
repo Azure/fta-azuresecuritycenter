@@ -1,4 +1,4 @@
-# Welcome to the FastTrack for Azure - Azure Security Center Call
+# Welcome to the FastTrack for Azure - Security Fundamentals Call
 ## We will start 3-4 minutes after the scheduled time to accommodate those still connecting
 
 #### [home](./welcome.md)  | [next](./Pre-requisites.md)
