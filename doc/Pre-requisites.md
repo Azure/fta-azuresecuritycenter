@@ -24,7 +24,9 @@ The biggest benefit of Azure Security Center is ['Secure Score'](https://docs.mi
 
 ## What is Azure Defender?
 
-Defender, in this regard, is a "Cloud Workload Protection" platform. What does that mean? This means that Defender and it's associated features are advanced tools designed to protect your resources. It has integrated threat protection with Microsoft Defender for Endpoint (Servers) and advanced cloud protection capabilities like Just In Time administration and Adaptive Application control. It gives you a unified place to manage several different security capabilities and provides the ability to span hybrid cloud workloads. It also gives you the capability to assess your workloads against regulatory compliance frameworks.
+Defender, in this regard, is a "Cloud Workload Protection" platform. This is the second piece of 'Security Center'. 
+
+What does that mean? This means that Defender and it's associated features are advanced tools designed to protect your resources. It has integrated threat protection with Microsoft Defender for Endpoint (Servers) and advanced cloud protection capabilities like Just In Time administration and Adaptive Application control. It gives you a unified place to manage several different security capabilities and provides the ability to span hybrid cloud workloads. It also gives you the capability to assess your workloads against regulatory compliance frameworks.
 
 ## What is Azure Policy?
 
