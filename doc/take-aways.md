@@ -2,10 +2,10 @@
 
 ## From here you now understand
 
-* What Security Center is
-* What Azure Defender is
+* What is Security Center
+* What is Azure Defender
 * How to navigate the tool
-* What Azure Policy is
+* What are Azure Policies
 
 ## Go Do
 
